@@ -35,7 +35,8 @@ All token sells will be reinvested immediately into GME
 | 10000        | 0,0042069          | TSLA   |
 | 100000       | 0,00042069         | SPY   |
 | 1000000      | 0,000042069        | Stonk   |
-
-<button class="button" name="button" onclick="https://etherdelta.com/#0x1893c95c112efc46ab32ee15886421c66b83d68a-ETH">Trade WSBT on Etherdelta</button>
+<div style="text-align: center">
+<button style="padding: 20px 40px 20px 40px; background: #FF5700; color: white; text-align: center; font-weight: bold; font-size: 20px;" name="button" onclick="https://etherdelta.com/#0x1893c95c112efc46ab32ee15886421c66b83d68a-ETH">Trade WSBT on Etherdelta</button>
+</div>
 
 ... this is not financial advice
