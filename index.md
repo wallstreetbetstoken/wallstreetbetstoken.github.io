@@ -43,11 +43,11 @@ All token sells will be reinvested immediately into GME
 <div class="paper" id="paper">
   <div class="lines">
     <div class="text" contenteditable spellcheck="false">
-      <h3>WallStreetBets Token (WBST)</h3> <br />
+      <h3>WallStreetBets Token (WBST)</h3>
       	Decentralized, safe, fast token that will one day replace BTC and ETH. <br />
 	Goal of the coin is to gain 1000x quickly so everyone hodling it can invest in GME.<br /><br />
 	Analyst market prediction: <br />1 WSBT = 420,69$ in the first year. This will be achieved by Melvin Capital shorting the coin so a short-squeeze can be performed.<br /><br />
-	In Q4 we plan to implement the "GME Standard" that will back all WSBT tokens with one 1 GME share.</div>
+	In Q4 we plan to implement the "GME Standard"  &copy; &trade; &reg; that will back all WSBT tokens with one 1 GME share.</div>
   </div>
   <div class="holes hole-top"></div>
   <div class="holes hole-middle"></div>
