@@ -14,7 +14,7 @@ Still in a stand-off with MELVIN on GME?
 
 ## The Solution is here - WallStreetBets Token
 
-Invest today in **WSBT token** the only STABLE sh\*tcoin on this planet. As per our whitepaper we plan to implement the "GME standard" &copy; &trade; &reg; so every WSB token will be backed by 1 GME share - or if another pandemic hits 420 pieces of custom printed toiletpaper.  
+Invest today in **WSBT token** the only STABLE sh\*tcoin on this planet. As per our <a href="#paper">whitepaper</a> we plan to implement the "GME standard" &copy; &trade; &reg; so every WSB token will be backed by 1 GME share - or if another pandemic hits 420 pieces of custom printed toiletpaper.  
 
 Forget BTC or ETH, for true autists the growth is too slow. 
 WSBT is expecting **1000% GAINS THE FIRST YEAR!**  
@@ -40,7 +40,7 @@ All token sells will be reinvested immediately into GME
 </div>
 
 ## Whitepaper
-<div class="paper">
+<div class="paper" id="paper">
   <div class="lines">
     <div class="text" contenteditable spellcheck="false">
       <h3>WallStreetBets Token (WBST)</h3> <br />
