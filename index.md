@@ -38,7 +38,7 @@ All token sells will be reinvested immediately into GME
 
 <div style="text-align: center">
 
-<button style="padding: 20px 40px 20px 40px; background: #FF5700; color: white; text-align: center; font-weight: bold; font-size: 20px;" name="button" onclick="https://etherdelta.com/#0x1893c95c112efc46ab32ee15886421c66b83d68a-ETH">Trade WSBT on Etherdelta</button>
+<a href="https://etherdelta.com/#0x1893c95c112efc46ab32ee15886421c66b83d68a-ETH"><button style="padding: 20px 40px 20px 40px; background: #FF5700; color: white; text-align: center; font-weight: bold; font-size: 20px;" name="button" onclick="https://etherdelta.com/#0x1893c95c112efc46ab32ee15886421c66b83d68a-ETH">Trade WSBT on Etherdelta</button></a>
 </div>
 
 
