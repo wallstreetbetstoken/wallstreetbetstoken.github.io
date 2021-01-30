@@ -10,7 +10,7 @@ Sick of Robinhood preventing you to **BUY GME**?
 
 TIRED of the **10th YOLO** this year? 
 
-MELVIN took all your hard gambled dineros? 
+Still in a stand-off with MELVIN on GME? 
 
 ## The Solution is here - WallStreetBets Token
 
@@ -45,5 +45,17 @@ All token sells will be reinvested immediately into GME
 	Decentralized, safe, fast token that will one day replace BTC and ETH. 
 	Goal of the coin is to gain 1000x quickly so everyone hodling it can invest in GME.
 	Analyst market prediction: 1 WSBT = 420,69$ in the first year. This will be achieved by Melvin Capital shorting the coin so a short-squeeze can be performed.
+	In Q4 we plan to implement the "GME Standard" that will back all WSBT tokens with one 1 GME share.
 	</div>
+
+<div class="paper">
+  <div class="lines">
+    <div class="text" contenteditable spellcheck="false">
+      You can edit this text! <br /><br />
+      Cupcake ipsum dolor sit amet liquorice fruitcake. Candy canes jelly beans sweet roll cupcake lollipop. Powder carrot cake toffee brownie. Marshmallow sweet roll donut. Chocolate cake apple pie candy canes tiramisu dragée wafer. Croissant cookie lemon drops tiramisu jelly-o donut. Sweet gummi bears ice cream.</div>
+  </div>
+  <div class="holes hole-top"></div>
+  <div class="holes hole-middle"></div>
+  <div class="holes hole-bottom"></div>
+</div>
 ... this is not financial advice
