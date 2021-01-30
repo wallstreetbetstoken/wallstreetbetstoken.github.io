@@ -37,5 +37,4 @@ All token sells will be reinvested immediately into GME
 
 <button name="button" onclick="https://etherdelta.com/#0x1893c95c112efc46ab32ee15886421c66b83d68a-ETH">Trade WSBT on Etherdelta</button>
 
-
-
+... this is not financial advice
