@@ -10,12 +10,13 @@ h1 {
 }
 
 button {
-	margin-bottom:20px;
+	margin-bottom:30px;
+	margin-top:30px;
 }
 
 .paper {
   position: relative;
-  height: 550px;
+  height: 450px;
   width: 100%;
   background: rgba(255,255,255,0.9);
   box-shadow: 0px 0px 5px 0px #888;
@@ -42,6 +43,7 @@ button {
   right: 10px;
   line-height: 25px;
   font-family: 'Indie Flower';
+  font-size:18px;
   overflow: hidden;
   outline: none;
 }
