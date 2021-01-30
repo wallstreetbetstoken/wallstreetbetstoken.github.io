@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-# Welcome to the Future of Crpytocurrencies
+# WallStreetBets Token (WSBT)
+## Welcome to the Future of Crpytocurrencies
 
 Dear autist, 
 
