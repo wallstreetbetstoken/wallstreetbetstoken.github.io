@@ -16,8 +16,6 @@ MELVIN took all your hard gambled dineros?
 
 Invest today in **WSBT token** the only STABLE sh\*tcoin on this planet. As per our whitepaper we plan to implement the "GME standard" &copy; &trade; &reg; so every WSB token will be backed by 1 GME share - or if another pandemic hits 420 pieces of custom printed toiletpaper.  
 
-
-## WSBT Advantages
 Forget BTC or ETH, for true autists the growth is too slow. 
 WSBT is expecting **1000% GAINS THE FIRST YEAR!**  
 
@@ -41,5 +39,11 @@ All token sells will be reinvested immediately into GME
 <a href="https://etherdelta.com/#0x1893c95c112efc46ab32ee15886421c66b83d68a-ETH"><button style="padding: 20px 40px 20px 40px; background: #FF5700; color: white; text-align: center; font-weight: bold; font-size: 20px;" name="button" onclick="https://etherdelta.com/#0x1893c95c112efc46ab32ee15886421c66b83d68a-ETH">Trade WSBT on Etherdelta</button></a>
 </div>
 
-
+## Whitepaper
+<div style="text-align: center; padding: 15px; width: 100%; min-height: 250px; margin-bottom: 25px; border: 1px solid #ccc">
+	<h3>WallStreetBets Token (WBST)</h3>
+	Decentralized, safe, fast token that will one day replace BTC and ETH. 
+	Goal of the coin is to gain 1000x quickly so everyone hodling it can invest in GME.
+	Realistic market prediction: 1 WSBT = 420,69$ in the first year.
+	</div>
 ... this is not financial advice
