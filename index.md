@@ -12,7 +12,7 @@ TIRED of the **10th YOLO** this year?
 
 Still in a stand-off with MELVIN on GME? 
 
-## 🚀 The Solution is here - WallStreetBets Token🚀
+## 🚀 The Solution - WallStreetBets Token🚀
 
 Invest today in **WSBT token** the only STABLE sh\*tcoin on this planet. As per our <a href="#paper">whitepaper</a> we plan to implement the "GME standard" &copy; &trade; &reg; so every WSB token will be backed by 1 GME share - or if another pandemic hits 420 pieces of custom printed toiletpaper.  
 
@@ -54,5 +54,5 @@ All token sells will be reinvested immediately into GME
   <div class="holes hole-bottom"></div>
 </div>
 <br /><br /><br />
-... this is not financial advice
+... this is not financial advice<br />
 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
